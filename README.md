@@ -19,4 +19,8 @@ The Public Consultation Portal aims to facilitate transparent and accessible pub
 
 ## Features
 
-- **Project Listings:**
+- **Project Listings:** Display a searchable list of ongoing public consultations.
+- **Project Details Page:** Comprehensive view for each project with objectives, timeline, documentation, and related information.
+- **Feedback Submission Form:** Accessible form where users can provide feedback, with an option for anonymous submissions.
+- **Community Feedback:** Real-time feedback display for viewing community opinions and discussions.
+- **Admin Dashboard (optional):** Restricted area for managing project information, moderating comments, and analyzing feedback trends.
