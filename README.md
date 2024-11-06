@@ -16,3 +16,7 @@ This is a responsive web application designed to host and manage public consulta
 ## Project Overview
 
 The Public Consultation Portal aims to facilitate transparent and accessible public feedback for community-based projects. Users can browse active projects, read in-depth project descriptions, and submit their opinions or concerns. Administrators can manage projects, review public feedback, and track engagement metrics through an optional dashboard.
+
+## Features
+
+- **Project Listings:**
