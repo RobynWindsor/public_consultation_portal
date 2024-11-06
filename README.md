@@ -31,3 +31,31 @@ The Public Consultation Portal aims to facilitate transparent and accessible pub
 - **Backend (Optional for API integration):** Node.js with Express.js (for API management and database connection)
 - **Database:** MongoDB or Firebase for managing project details and storing feedback (optional, if backend is implemented)
 - **Version Control:** Git and GitHub for tracking changes
+
+## Setup and Installation
+
+### prerequisites
+
+- Node.js (for local development server)
+- Git for version control
+
+### Installation Steps
+
+1. **Clone the Repository:**
+   git clone https://github.com/your-username/Public-Consultation-Portal.git
+   cd Public-Consultation-Portal
+
+2. **Install Dependencies:**
+   npm install
+
+3. **Start the Development Server:**
+   npm start
+
+4. **Navigate to Local Server:** Open http://localhost:3000 in your browser to view the application
+
+## Usage
+
+1. **Browse projects:** Visit the Home Page
+2. **View Project Details:** Click on a project title to view the full description, timelines, and any attached documents.
+3. **Submit Feedback:** Use the Feedback Form on each project page to submit your input
+4. **Admin Access:** If an admin panel is enabled, login and manage project details, feedback moderation, and review analytics.
