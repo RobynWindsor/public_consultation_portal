@@ -59,3 +59,18 @@ The Public Consultation Portal aims to facilitate transparent and accessible pub
 2. **View Project Details:** Click on a project title to view the full description, timelines, and any attached documents.
 3. **Submit Feedback:** Use the Feedback Form on each project page to submit your input
 4. **Admin Access:** If an admin panel is enabled, login and manage project details, feedback moderation, and review analytics.
+
+## Future Ehancements
+
+- **Real-time Updates:** Implement WebSockets to deliver feedback updates in real time.
+- **User Profiles:** Allow users to create accounts and track their feedback.
+- **Enhanced Admin Dashboard:** Include charts and data visualization for tracking engagement metrics.
+- **Multi-language Support:** Enable language options for accessibility.
+- **Improved Accessibilt:y** Ensure WCAG 2.1 compliance across all components.
+
+## Contributing
+
+Contrinutions are welcome! Please submit a pull request or open an issue to discuss your ideas for improving the project.
+
+##License
+This project is licensed under the MIT License. See the License file for details.
